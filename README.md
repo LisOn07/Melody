@@ -1,2 +1,2 @@
-# Melody - Учебный прроект Glo Academy
+# Melody - Учебный проект Glo Academy
 ## Проект выпонила: Алеся Корень
